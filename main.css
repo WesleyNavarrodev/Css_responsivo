@@ -75,6 +75,8 @@ nav li a {
 .sobre-a-loja {
     margin-top: 16px;
     display: flex;
+    margin-top: 30px;
+    margin-bottom: 30px;
 }
 
 .sobre-a-loja img {
@@ -104,8 +106,14 @@ section {
     list-style: none;
 }
 
+.lista-jogos p {
+    margin-top: 16px;
+    margin-bottom: 16px;
+}
+
 .price {
     margin: 4px;
+    margin-bottom: 12px;
 }
 
 button {
@@ -121,6 +129,15 @@ button {
     font-style: italic;
     cursor: pointer;
     border-radius: 6px;
+}
+
+.titulo-da-loja {
+    margin-top: 30px;
+}
+
+.texto-da-loja {
+    margin-top: 18px;
+    font-size: large;
 }
 
 button:hover {
